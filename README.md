@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sembako54
-- 👀 I’m interested in website---
-- 🌱 I’m currently learning css TT
-- 💞️ I’m looking to collaborate on -LEMME THINK!!!
+- 👋 Hi, y'can call me grace
+- 👀 I’m interested in music
+- 🌱 I’m currently learning mysql
+- 💞️ I’m looking to collaborate on nope
 - 📫 How to reach me ...
 
 <!---
