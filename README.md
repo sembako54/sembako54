@@ -1,8 +1,11 @@
+
+
+
 - 👋 Hi, y'can call me grace
 - 👀 I’m interested in music
 - 🌱 I’m currently learning mysql
-- 💞️ I’m looking to collaborate on nope
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on -aaah you know im still learning? ._.
+
 
 <!---
 sembako54/sembako54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
